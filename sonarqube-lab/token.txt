@@ -1,2 +1,0 @@
-redis-app: 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
-redis-adm: e13f67dbaff7fcd27afd5551bf421bd9febbaf54
